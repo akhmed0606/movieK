@@ -1,4 +1,4 @@
-**Popular kids movie search app using TMDB API**
+**Popular kids movie search app using (TMDB api)**
 
 * HTML,CSS,JAVASCRIPT,AXIOS
 
